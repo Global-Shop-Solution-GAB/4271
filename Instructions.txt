@@ -1,0 +1,7 @@
+This project is intended to provide a system to approve lines in sales orders so that lines which are not approved will not be automatically generated in the work orders
+
+Gab script GCG_4271_SOLnApproval.g2c is to be attached to the following hooks:
+12010
+12705
+12435
+12231
